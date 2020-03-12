@@ -1,1 +1,3 @@
 # projectX
+
+## Pradedm mokytis
